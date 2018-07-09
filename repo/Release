@@ -1,0 +1,8 @@
+Origin: Jack's repo
+Label: Jack's repo
+Suite: stable
+Version: 0.0.1
+Codename: jackthehackrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Jack's Cydia Repository
