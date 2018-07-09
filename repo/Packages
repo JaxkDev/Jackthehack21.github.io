@@ -1,0 +1,14 @@
+Package: org.jackthehack.tapcounter
+Version: 0.1-1
+Section: Tweaks
+Maintainer: Jack Honour <gangnam253@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files//tapcounter/org.jackthehack.tapcounter_0.1-1_iphoneos-arm.deb
+Size: 8306
+Installed-Size: 544
+MD5sum: 3173586e3d91b5d91d14eab78c71af54
+Description: Count your taps!
+Name: Tapcounter
+Author: Jack Honour <gangnam253@gmail.com>
+Depiction: http://Jackthehack21.github.io/repo/Files/tapcounter/index.html
