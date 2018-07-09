@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: Jack Honour <gangnam253@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: Files//tapcounter/org.jackthehack.tapcounter_0.1-1_iphoneos-arm.deb
+Filename: Files//tapcounter/org.jackthehack.tapcounter_0.1-24_iphoneos-arm.deb
 Size: 8306
 Installed-Size: 544
 MD5sum: 3173586e3d91b5d91d14eab78c71af54
