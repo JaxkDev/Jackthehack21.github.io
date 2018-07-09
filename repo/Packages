@@ -5,7 +5,7 @@ Maintainer: Jack Honour <gangnam253@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: Files//tapcounter/org.jackthehack.tapcounter_0.1-24_iphoneos-arm.deb
-Size: 8306
+Size: 8950
 Installed-Size: 544
 MD5sum: 678cdaf1c58c7b101537230f090e4e75
 Description: Count your taps!
