@@ -14,14 +14,14 @@ Author: Jack Honour <gangnam253@gmail.com>
 Depiction: http://Jackthehack21.github.io/repo/Files/tapcounter/index.html
 
 Package: org.jackthehack.moderntheme
-Version: 0.1
+Version: 1.0
 Section: Tweaks
 Maintainer: Jack Honour <gangnam253@gmail.com>
 Architecture: iphoneos-arm
-Filename: Files//moderntheme/theme.deb
-Size: 5764
+Filename: Files//moderntheme/ModernTheme10.deb
+Size: 5938
 Installed-Size: 544
-MD5sum: dcc6d57b7bd9abd282c637ed2b7fe0a4
+MD5sum: 701432d766901d976882b12802aed977
 Description: This is a modern theme for ios 11-11.3
 Name: Modern Theme 2040
 Author: Jack Honour <gangnam253@gmail.com>
