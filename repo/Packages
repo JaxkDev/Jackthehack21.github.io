@@ -18,10 +18,10 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Jack Honour <gangnam253@gmail.com>
 Architecture: iphoneos-arm
-Filename: Files//moderntheme/ModernTheme10.deb
-Size: 5938
+Filename: Files//moderntheme/moderntheme10.deb
+Size: 5974
 Installed-Size: 544
-MD5sum: 701432d766901d976882b12802aed977
+MD5sum: bcce06c3c7d1cf9c5f846dd6483ba394
 Description: This is a modern theme for ios 11-11.3
 Name: Modern Theme 2040
 Author: Jack Honour <gangnam253@gmail.com>
